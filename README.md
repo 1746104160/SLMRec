@@ -1,6 +1,6 @@
 # SLMRec
 
-"Self-supervised Learning for Multimedia" (SLMRec) aims capture multi-modal patterns in the data itself, we go beyond the supervised learning paradigm, and incorporate the idea of self-supervised learning (SSL) into multimedia recommendation.
+"Self-supervised Learning for Multimedia Recommendation" (SLMRec) aims capture multi-modal patterns in the data itself, we go beyond the supervised learning paradigm, and incorporate the idea of self-supervised learning (SSL) into multimedia recommendation.
 
 > Authors: Zhulin Tao, Xiaohao Liu, Yewei Xia, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua
 
